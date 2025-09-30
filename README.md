@@ -1,21 +1,34 @@
-**********************************************************************************************************************************************************************************************************************************************************************************************************************************
 
-IT-TOOL HAKKINDA
 
-Bilgilendirme:
+# IT Toolbox - Profesyonel IT Yönetim Aracı
 
-Bu araç, IT yönetimi ve günlük kullanım için oldukça pratik bir çözüm sunuyor. İçerisinde 51 farklı uygulama yer almakta ve her biri, işlerinizi daha hızlı ve verimli yapmanıza yardımcı olacak şekilde tasarlandı. IT yönetiminden sistem bakımı ve internet araçlarına, güvenlik duvarı kontrollerinden hızlı araçlara kadar geniş bir yelpazeye sahip. -Revaha
+IT Toolbox, sistem bakımından ağ araçlarına kadar birçok kullanışlı işlevi tek bir arayüzde toplayarak size kolaylık sağlar. 51 farklı araçla sistem yönetimini hızlandırabilir, güvenlik testlerini kolayca yapabilir ve daha pek çok işlemi zahmetsizce gerçekleştirebilirsiniz. Hem IT profesyonelleri hem de günlük kullanıcılar için mükemmel bir yardımcıdır.
 
-Her seviyedeki kullanıcı için kolayca erişilebilir ve kullanımı son derece basit olan bu araç, profesyonel IT yöneticilerinden, günlük bilgisayar kullanıcılarına kadar herkesin işini kolaylaştırmak için ideal. Hem hızlı hem de güvenli bir deneyim sunarak, günlük işlemlerinizi kolaylaştırmakla kalmayacak, aynı zamanda sisteminizi her zaman verimli tutmanıza yardımcı olacaktır.
+## 🚀 Hızlı Başlangıç
 
-**********************************************************************************************************************************************************************************************************************************************************************************************************************************
+Projenizi hemen kullanmaya başlamak için aşağıdaki adımları izleyin:
 
-ABOUT IT-TOOL
+1. Reponuzu bilgisayarınıza indirin:
+   `git clone https://github.com/Revahaztkn/it-tool.git`
 
-Information:
+2. `it-tool.bat` dosyasını çalıştırın ve IT yönetim aracınızı kullanmaya başlayın!
 
-This tool offers a very practical solution for IT management and daily use. It contains 51 different applications, each designed to help you get things done faster and more efficiently. From IT management to system maintenance, internet tools, security firewall checks, and quick utilities, it covers a wide range of functions.
+*İpucu:* Herhangi bir işlem yaparken araçlar arasında kolayca geçiş yapabilirsiniz.
 
-Accessible and easy to use for all levels of users, this tool is perfect for everyone, from professional IT managers to everyday computer users. It not only provides a fast and secure experience but also helps you keep your system running smoothly at all times.
+## 🛠️ Kullanım Kolaylığı
 
-**********************************************************************************************************************************************************************************************************************************************************************************************************************************
+**Pratik ve Basit:** IT yönetimi ve günlük kullanımlar için basit ama etkili bir çözüm.
+**Hızlı Sonuç:** Araçları hızla başlatarak işlemlerinizi hızlıca gerçekleştirebilirsiniz.
+**Verimli Yönetim:** Ağ testlerinden sistem bakımına kadar her işlemi kolayca yapabilirsiniz.
+
+## 🤝 Katkı Sağlamak
+
+Açık kaynak kodlu projemize katkı sağlamak isterseniz, aşağıdaki adımları takip edebilirsiniz:
+
+1. Repo'yu forkladın.
+2. Yeni bir branch oluşturun (`git checkout -b feature-xyz`).
+3. Değişikliklerinizi yapın ve commit edin (`git commit -am 'Yeni özellik eklendi'`).
+4. Branch'inizi GitHub'a push'layın (`git push origin feature-xyz`).
+5. Bir pull request açarak katkınızı paylaşın!
+
+
